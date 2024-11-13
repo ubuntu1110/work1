@@ -1,0 +1,500 @@
+2024-09-24 15:21:03,626 - __main__ - INFO - Запуск бота...
+2024-09-24 15:32:12,649 - __main__ - INFO - Запуск бота...
+2024-09-24 15:38:56,879 - __main__ - INFO - Запуск бота...
+2024-09-24 15:38:58,859 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getMe "HTTP/1.1 200 OK"
+2024-09-24 15:38:59,192 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 15:38:59,195 - telegram.ext.Application - INFO - Application started
+2024-09-24 15:39:10,241 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:39:20,562 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:39:30,925 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:39:41,306 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:39:51,808 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:02,110 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:04,752 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:07,776 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:09,224 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:40:17,040 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:18,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:40:18,687 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_25.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:40:21,599 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:40:27,443 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:37,990 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:48,316 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:40:58,627 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:41:09,055 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:41:19,834 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:41:31,498 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:41:42,561 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:41:54,056 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:42:04,616 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:42:05,532 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 15:42:05,533 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 15:42:07,003 - __main__ - INFO - Запуск бота...
+2024-09-24 15:42:08,571 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getMe "HTTP/1.1 200 OK"
+2024-09-24 15:42:09,046 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 15:42:09,047 - telegram.ext.Application - INFO - Application started
+2024-09-24 15:42:20,113 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:42:30,618 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:42:38,643 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:42:39,768 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:42:43,578 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:42:44,051 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:42:44,403 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_26.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:42:46,783 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:42:47,341 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_27.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:42:49,586 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:42:50,262 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_28.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:42:53,036 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:42:54,018 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:43:04,447 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:43:14,760 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:43:25,127 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:43:35,482 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:43:45,817 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:43:56,153 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:44:07,592 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:44:15,431 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 15:44:15,432 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 15:44:17,358 - __main__ - INFO - Запуск бота...
+2024-09-24 15:44:20,050 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getMe "HTTP/1.1 200 OK"
+2024-09-24 15:44:20,463 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 15:44:20,465 - telegram.ext.Application - INFO - Application started
+2024-09-24 15:44:25,538 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:44:27,863 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:44:34,605 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:44:37,193 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:44:38,208 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_29.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:44:43,576 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:44:44,041 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:44:44,741 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_29.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:44:47,611 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:44:48,122 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:44:57,945 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:45:34,217 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:45:44,650 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:45:46,979 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 15:45:46,980 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 15:45:48,222 - __main__ - INFO - Запуск бота...
+2024-09-24 15:45:49,666 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getMe "HTTP/1.1 200 OK"
+2024-09-24 15:45:50,082 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 15:45:50,084 - telegram.ext.Application - INFO - Application started
+2024-09-24 15:46:01,314 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:46:11,634 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:46:22,031 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:46:32,372 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:46:42,694 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:46:53,023 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:47:03,327 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:47:13,742 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:47:24,138 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:47:34,459 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:47:44,873 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:47:55,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:48:05,644 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:48:16,068 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:48:26,581 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:48:36,950 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:48:44,070 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:48:45,198 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:48:45,520 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_30.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:48:47,825 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:48:54,422 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:49:04,724 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:49:15,077 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:49:24,680 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:49:25,999 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 15:49:27,223 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_31.jpg "HTTP/1.1 200 OK"
+2024-09-24 15:49:32,644 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 15:49:35,048 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:49:45,406 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:49:55,782 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:50:06,098 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:50:16,471 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:50:26,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:50:37,287 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:50:47,741 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:50:58,097 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:51:08,424 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:51:18,777 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:51:29,133 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:51:39,440 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:51:50,026 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:52:00,581 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:52:11,148 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:52:21,458 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:52:32,814 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:52:43,737 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:52:54,058 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:53:04,393 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:53:14,871 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:53:25,185 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:53:35,655 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:53:45,989 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:53:56,373 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:54:06,706 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:54:17,049 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:54:27,355 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:54:37,675 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:54:47,996 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:54:58,307 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:55:08,675 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:55:19,029 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:55:29,365 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:55:39,672 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:55:49,985 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:56:00,486 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:56:10,909 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:56:21,256 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:56:31,817 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:56:42,160 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:56:52,518 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:57:02,947 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:57:13,259 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:57:23,788 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:57:34,102 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:57:44,509 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:57:54,818 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:58:05,133 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:58:15,642 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:58:27,294 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:58:30,210 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 15:58:30,210 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 15:58:31,299 - __main__ - INFO - Запуск бота...
+2024-09-24 15:58:36,063 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getMe "HTTP/1.1 200 OK"
+2024-09-24 15:58:36,616 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 15:58:36,618 - telegram.ext.Application - INFO - Application started
+2024-09-24 15:58:47,822 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:58:58,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:59:09,195 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:59:20,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:59:31,574 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:59:41,940 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 15:59:52,471 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:00:02,781 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:00:13,142 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:00:23,516 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:00:33,867 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:00:38,731 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:00:40,523 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:00:43,304 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:00:43,306 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:00:43,672 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:00:44,141 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_32.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:00:44,143 - handlers.photo_handler - INFO - Фотография 1 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\BotTelegPhoto\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_1.jpg
+2024-09-24 16:00:44,652 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:00:45,141 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_33.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:00:45,143 - handlers.photo_handler - INFO - Фотография 2 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\BotTelegPhoto\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_2.jpg
+2024-09-24 16:00:45,515 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:00:46,628 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7614018366%3AAAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/photos/file_34.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:00:46,630 - handlers.photo_handler - INFO - Фотография 3 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\BotTelegPhoto\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_3.jpg
+2024-09-24 16:00:47,075 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:00:53,898 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:01:04,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:01:14,532 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:01:24,967 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:01:35,273 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:01:45,689 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:01:56,043 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:02:06,411 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:02:16,739 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:02:27,164 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:02:37,599 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:02:47,934 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:02:58,291 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:03:08,699 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:03:19,091 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:03:29,412 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:03:31,472 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:03:31,472 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:03:33,259 - __main__ - INFO - Запуск бота...
+2024-09-24 16:03:35,079 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:03:35,389 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:03:35,391 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:03:46,335 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:03:56,699 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:04:07,170 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:04:18,152 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:04:28,595 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:04:39,245 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7614018366:AAGF9esyPy7BP3ZLAOEDozgz_hvXzUq3bOw/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:21:40,453 - __main__ - INFO - Запуск бота...
+2024-09-24 16:21:46,605 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:21:46,974 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:21:46,976 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:21:48,560 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:21:49,018 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:21:58,001 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:21:58,003 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:21:59,083 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:21:59,085 - handlers.photo_handler - ERROR - Ошибка в обработчике фотографий: 'File' object has no attribute 'get_file'
+2024-09-24 16:21:59,535 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:21:59,536 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:21:59,883 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:21:59,885 - handlers.photo_handler - ERROR - Ошибка в обработчике фотографий: 'File' object has no attribute 'get_file'
+2024-09-24 16:22:00,254 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:22:00,256 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:22:00,677 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:22:00,678 - handlers.photo_handler - ERROR - Ошибка в обработчике фотографий: 'File' object has no attribute 'get_file'
+2024-09-24 16:22:01,212 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:22:05,394 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:22:05,396 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:22:05,724 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:22:05,725 - handlers.photo_handler - ERROR - Ошибка в обработчике фотографий: 'File' object has no attribute 'get_file'
+2024-09-24 16:22:06,070 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:22:15,864 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:22:26,194 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:22:36,506 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:22:46,824 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:22:57,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:23:08,267 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:23:18,815 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:23:24,327 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:23:24,328 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:23:26,411 - __main__ - INFO - Запуск бота...
+2024-09-24 16:23:29,232 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:23:29,919 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:23:29,920 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:23:33,175 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:23:34,097 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:23:39,333 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:23:39,334 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:23:43,202 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:23:43,203 - handlers.photo_handler - ERROR - Ошибка в обработчике фотографий: 'File' object has no attribute 'get_file'
+Traceback (most recent call last):
+  File "C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\photo_handler.py", line 39, in handle_photo
+    file_info = await file.get_file()
+                      ^^^^^^^^^^^^^
+AttributeError: 'File' object has no attribute 'get_file'
+2024-09-24 16:23:44,253 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:23:50,579 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:24:01,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:24:11,414 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:24:21,744 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:24:32,212 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:24:42,604 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:24:52,953 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:25:03,273 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:25:13,684 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:25:24,127 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:25:34,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:25:45,302 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:25:55,743 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:26:06,122 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:26:16,533 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:26:25,717 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:26:25,717 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:26:27,478 - __main__ - INFO - Запуск бота...
+2024-09-24 16:26:29,089 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:26:29,472 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:26:29,473 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:26:34,312 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:26:34,821 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:26:37,731 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:26:37,733 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:26:38,162 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:26:38,164 - handlers.photo_handler - INFO - Фотография 1 от пользователя 6120842513, размер: 599 байт
+2024-09-24 16:26:38,517 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_0.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:26:38,519 - handlers.photo_handler - INFO - Фотография 1 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_1.jpg
+2024-09-24 16:26:40,232 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"RYxjRCL","title":"user-6120842513-photo-1","url_viewer":"https:\/\/ibb.co\/RYxjRCL","url":"https:\/\/i.ibb.co\/MZYBFRq\/user-6120842513-photo-1.jpg","display_url":"https:\/\/i.ibb.co\/MZYBFRq\/user-6120842513-photo-1.jpg","width":76,"height":90,"size":599,"time":1727184400,"expiration":0,"image":{"filename":"user-6120842513-photo-1.jpg","name":"user-6120842513-photo-1","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/MZYBFRq\/user-6120842513-photo-1.jpg"},"thumb":{"filename":"user-6120842513-photo-1.jpg","name":"user-6120842513-photo-1","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/RYxjRCL\/user-6120842513-photo-1.jpg"},"delete_url":"https:\/\/ibb.co\/RYxjRCL\/fc03df43c77a8d4692db2327098a2a46"},"success":true,"status":200}
+2024-09-24 16:26:40,236 - handlers.photo_handler - INFO - Фотография 1 успешно загружена на imgbb: https://i.ibb.co/MZYBFRq/user-6120842513-photo-1.jpg
+2024-09-24 16:26:40,237 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_1.jpg
+2024-09-24 16:26:40,614 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:26:40,616 - handlers.photo_handler - INFO - Фотография 2 от пользователя 6120842513, размер: 5493 байт
+2024-09-24 16:26:41,068 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_1.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:26:41,069 - handlers.photo_handler - INFO - Фотография 2 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_2.jpg
+2024-09-24 16:26:42,911 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"D87zykN","title":"user-6120842513-photo-2","url_viewer":"https:\/\/ibb.co\/D87zykN","url":"https:\/\/i.ibb.co\/VQvJZDd\/user-6120842513-photo-2.jpg","display_url":"https:\/\/i.ibb.co\/VQvJZDd\/user-6120842513-photo-2.jpg","width":272,"height":320,"size":5493,"time":1727184402,"expiration":0,"image":{"filename":"user-6120842513-photo-2.jpg","name":"user-6120842513-photo-2","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/VQvJZDd\/user-6120842513-photo-2.jpg"},"thumb":{"filename":"user-6120842513-photo-2.jpg","name":"user-6120842513-photo-2","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/D87zykN\/user-6120842513-photo-2.jpg"},"delete_url":"https:\/\/ibb.co\/D87zykN\/883c9d857609913c461d9ab8393fb97d"},"success":true,"status":200}
+2024-09-24 16:26:42,914 - handlers.photo_handler - INFO - Фотография 2 успешно загружена на imgbb: https://i.ibb.co/VQvJZDd/user-6120842513-photo-2.jpg
+2024-09-24 16:26:42,915 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_2.jpg
+2024-09-24 16:26:43,412 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:26:43,414 - handlers.photo_handler - INFO - Фотография 3 от пользователя 6120842513, размер: 16286 байт
+2024-09-24 16:26:43,947 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_2.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:26:43,949 - handlers.photo_handler - INFO - Фотография 3 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_3.jpg
+2024-09-24 16:26:46,400 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"ftryk3Q","title":"user-6120842513-photo-3","url_viewer":"https:\/\/ibb.co\/ftryk3Q","url":"https:\/\/i.ibb.co\/gwtfS06\/user-6120842513-photo-3.jpg","display_url":"https:\/\/i.ibb.co\/gwtfS06\/user-6120842513-photo-3.jpg","width":600,"height":706,"size":16286,"time":1727184406,"expiration":0,"image":{"filename":"user-6120842513-photo-3.jpg","name":"user-6120842513-photo-3","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/gwtfS06\/user-6120842513-photo-3.jpg"},"thumb":{"filename":"user-6120842513-photo-3.jpg","name":"user-6120842513-photo-3","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/ftryk3Q\/user-6120842513-photo-3.jpg"},"delete_url":"https:\/\/ibb.co\/ftryk3Q\/4a33b9e5b22a8f92c55ca703a7d54f90"},"success":true,"status":200}
+2024-09-24 16:26:46,403 - handlers.photo_handler - INFO - Фотография 3 успешно загружена на imgbb: https://i.ibb.co/gwtfS06/user-6120842513-photo-3.jpg
+2024-09-24 16:26:46,404 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_3.jpg
+2024-09-24 16:26:46,895 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:26:46,897 - handlers.photo_handler - INFO - Отправлены ссылки пользователю 6120842513
+2024-09-24 16:26:48,085 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:26:58,481 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:27:08,957 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:27:19,554 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:27:29,902 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:27:40,264 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:27:50,580 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:28:00,910 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:28:11,366 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:28:21,856 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:28:32,181 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:28:42,510 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:28:53,065 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:29:03,463 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:29:13,805 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:29:57,622 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:29:58,171 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:29:58,172 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:30:00,517 - __main__ - INFO - Запуск бота...
+2024-09-24 16:30:02,984 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:30:03,291 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:30:03,292 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:30:06,384 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:30:06,817 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:30:12,332 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:30:12,333 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:30:12,334 - handlers.photo_handler - INFO - Обработка фотографии 1 из 3
+2024-09-24 16:30:13,604 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:30:13,606 - handlers.photo_handler - INFO - Фотография 1, размер: 599 байт
+2024-09-24 16:30:13,928 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_0.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:30:13,930 - handlers.photo_handler - INFO - Фотография 1 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_1.jpg
+2024-09-24 16:30:15,497 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"2jgwVyT","title":"user-6120842513-photo-1","url_viewer":"https:\/\/ibb.co\/2jgwVyT","url":"https:\/\/i.ibb.co\/1983yLk\/user-6120842513-photo-1.jpg","display_url":"https:\/\/i.ibb.co\/1983yLk\/user-6120842513-photo-1.jpg","width":76,"height":90,"size":599,"time":1727184615,"expiration":0,"image":{"filename":"user-6120842513-photo-1.jpg","name":"user-6120842513-photo-1","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/1983yLk\/user-6120842513-photo-1.jpg"},"thumb":{"filename":"user-6120842513-photo-1.jpg","name":"user-6120842513-photo-1","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/2jgwVyT\/user-6120842513-photo-1.jpg"},"delete_url":"https:\/\/ibb.co\/2jgwVyT\/d9353d81f70033bdfcbe22a8e7c2742b"},"success":true,"status":200}
+2024-09-24 16:30:15,500 - handlers.photo_handler - INFO - Фотография 1 успешно загружена на imgbb: https://i.ibb.co/1983yLk/user-6120842513-photo-1.jpg
+2024-09-24 16:30:15,501 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_1.jpg
+2024-09-24 16:30:15,502 - handlers.photo_handler - INFO - Обработка фотографии 2 из 3
+2024-09-24 16:30:15,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:30:15,908 - handlers.photo_handler - INFO - Фотография 2, размер: 5493 байт
+2024-09-24 16:30:16,377 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_1.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:30:16,379 - handlers.photo_handler - INFO - Фотография 2 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_2.jpg
+2024-09-24 16:30:18,001 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"wh3Xr0w","title":"user-6120842513-photo-2","url_viewer":"https:\/\/ibb.co\/wh3Xr0w","url":"https:\/\/i.ibb.co\/XxNgk23\/user-6120842513-photo-2.jpg","display_url":"https:\/\/i.ibb.co\/XxNgk23\/user-6120842513-photo-2.jpg","width":272,"height":320,"size":5493,"time":1727184618,"expiration":0,"image":{"filename":"user-6120842513-photo-2.jpg","name":"user-6120842513-photo-2","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/XxNgk23\/user-6120842513-photo-2.jpg"},"thumb":{"filename":"user-6120842513-photo-2.jpg","name":"user-6120842513-photo-2","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/wh3Xr0w\/user-6120842513-photo-2.jpg"},"delete_url":"https:\/\/ibb.co\/wh3Xr0w\/795dad2787e57e3a7e065f00b7213ad6"},"success":true,"status":200}
+2024-09-24 16:30:18,004 - handlers.photo_handler - INFO - Фотография 2 успешно загружена на imgbb: https://i.ibb.co/XxNgk23/user-6120842513-photo-2.jpg
+2024-09-24 16:30:18,005 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_2.jpg
+2024-09-24 16:30:18,006 - handlers.photo_handler - INFO - Обработка фотографии 3 из 3
+2024-09-24 16:30:18,313 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:30:18,314 - handlers.photo_handler - INFO - Фотография 3, размер: 16286 байт
+2024-09-24 16:30:18,866 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_2.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:30:18,868 - handlers.photo_handler - INFO - Фотография 3 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_3.jpg
+2024-09-24 16:30:21,043 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"2WQ544S","title":"user-6120842513-photo-3","url_viewer":"https:\/\/ibb.co\/2WQ544S","url":"https:\/\/i.ibb.co\/q7fxQQC\/user-6120842513-photo-3.jpg","display_url":"https:\/\/i.ibb.co\/q7fxQQC\/user-6120842513-photo-3.jpg","width":600,"height":706,"size":16286,"time":1727184620,"expiration":0,"image":{"filename":"user-6120842513-photo-3.jpg","name":"user-6120842513-photo-3","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/q7fxQQC\/user-6120842513-photo-3.jpg"},"thumb":{"filename":"user-6120842513-photo-3.jpg","name":"user-6120842513-photo-3","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/2WQ544S\/user-6120842513-photo-3.jpg"},"delete_url":"https:\/\/ibb.co\/2WQ544S\/1e38334c159465783dfe0f4953780b87"},"success":true,"status":200}
+2024-09-24 16:30:21,045 - handlers.photo_handler - INFO - Фотография 3 успешно загружена на imgbb: https://i.ibb.co/q7fxQQC/user-6120842513-photo-3.jpg
+2024-09-24 16:30:21,046 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo_3.jpg
+2024-09-24 16:30:21,646 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:30:21,647 - handlers.photo_handler - INFO - Отправлены ссылки пользователю 6120842513
+2024-09-24 16:30:22,665 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:30:32,993 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:30:43,403 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:30:53,809 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:31:04,117 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:31:14,578 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:31:24,907 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:31:35,216 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:31:45,764 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:31:56,063 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:32:06,456 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:32:16,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:32:27,601 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:32:30,838 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:32:30,839 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:32:32,220 - __main__ - INFO - Запуск бота...
+2024-09-24 16:32:36,354 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:32:36,818 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:32:36,821 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:32:38,249 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:32:38,878 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:32:41,934 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:32:41,936 - handlers.photo_handler - INFO - Получено 3 фотографий от пользователя 6120842513
+2024-09-24 16:32:41,937 - handlers.photo_handler - INFO - Обработка фотографии с размером: 600x706
+2024-09-24 16:32:42,718 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:32:42,719 - handlers.photo_handler - INFO - Размер файла: 16286 байт
+2024-09-24 16:32:44,382 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_2.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:32:44,384 - handlers.photo_handler - INFO - Фотография сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo.jpg
+2024-09-24 16:32:48,705 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"LtMLgzD","title":"user-6120842513-photo","url_viewer":"https:\/\/ibb.co\/LtMLgzD","url":"https:\/\/i.ibb.co\/Z83ng6R\/user-6120842513-photo.jpg","display_url":"https:\/\/i.ibb.co\/Z83ng6R\/user-6120842513-photo.jpg","width":600,"height":706,"size":16286,"time":1727184768,"expiration":0,"image":{"filename":"user-6120842513-photo.jpg","name":"user-6120842513-photo","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/Z83ng6R\/user-6120842513-photo.jpg"},"thumb":{"filename":"user-6120842513-photo.jpg","name":"user-6120842513-photo","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/LtMLgzD\/user-6120842513-photo.jpg"},"delete_url":"https:\/\/ibb.co\/LtMLgzD\/233e3b626e6cebea903fd4b6c1f0f231"},"success":true,"status":200}
+2024-09-24 16:32:48,708 - handlers.photo_handler - INFO - Фотография успешно загружена на imgbb: https://i.ibb.co/Z83ng6R/user-6120842513-photo.jpg
+2024-09-24 16:32:48,709 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\handlers\..\downloads\user_6120842513_photo.jpg
+2024-09-24 16:32:49,129 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:32:49,132 - handlers.photo_handler - INFO - Отправлена ссылка пользователю 6120842513
+2024-09-24 16:32:52,573 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:33:03,409 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:33:13,822 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:33:24,342 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:33:34,653 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:33:44,951 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:33:55,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:34:05,997 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:34:16,693 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:34:27,382 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:34:38,005 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:34:49,474 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:34:59,885 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:35:10,330 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:35:20,661 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:35:44,879 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:36:10,185 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:36:20,563 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:36:23,110 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:36:23,111 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:36:24,481 - __main__ - INFO - Запуск бота...
+2024-09-24 16:36:26,342 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:36:27,014 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:36:27,016 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:36:29,366 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:36:29,908 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:36:35,356 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:36:35,358 - handlers.photo_handler - INFO - Получено 3 PhotoSize объектов от пользователя 6120842513
+2024-09-24 16:36:35,359 - handlers.photo_handler - INFO - Обработка фотографии 1 из 3
+2024-09-24 16:36:36,731 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:36:36,732 - handlers.photo_handler - INFO - Фотография 1, размер: 599 байт
+2024-09-24 16:36:37,232 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_0.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:36:37,233 - handlers.photo_handler - INFO - Фотография 1 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo_1.jpg
+2024-09-24 16:36:38,861 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"NrZx7Hn","title":"user-6120842513-photo-1","url_viewer":"https:\/\/ibb.co\/NrZx7Hn","url":"https:\/\/i.ibb.co\/pQJ2n9r\/user-6120842513-photo-1.jpg","display_url":"https:\/\/i.ibb.co\/pQJ2n9r\/user-6120842513-photo-1.jpg","width":76,"height":90,"size":599,"time":1727184998,"expiration":0,"image":{"filename":"user-6120842513-photo-1.jpg","name":"user-6120842513-photo-1","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/pQJ2n9r\/user-6120842513-photo-1.jpg"},"thumb":{"filename":"user-6120842513-photo-1.jpg","name":"user-6120842513-photo-1","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/NrZx7Hn\/user-6120842513-photo-1.jpg"},"delete_url":"https:\/\/ibb.co\/NrZx7Hn\/1af36e5773cf9ba0f679567e948bea7d"},"success":true,"status":200}
+2024-09-24 16:36:38,864 - handlers.photo_handler - INFO - Фотография 1 успешно загружена на imgbb: https://i.ibb.co/pQJ2n9r/user-6120842513-photo-1.jpg
+2024-09-24 16:36:38,865 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo_1.jpg
+2024-09-24 16:36:38,866 - handlers.photo_handler - INFO - Обработка фотографии 2 из 3
+2024-09-24 16:36:39,357 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:36:39,359 - handlers.photo_handler - INFO - Фотография 2, размер: 5493 байт
+2024-09-24 16:36:39,873 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_1.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:36:39,875 - handlers.photo_handler - INFO - Фотография 2 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo_2.jpg
+2024-09-24 16:36:41,970 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"rw8jLXv","title":"user-6120842513-photo-2","url_viewer":"https:\/\/ibb.co\/rw8jLXv","url":"https:\/\/i.ibb.co\/9rKDfdG\/user-6120842513-photo-2.jpg","display_url":"https:\/\/i.ibb.co\/9rKDfdG\/user-6120842513-photo-2.jpg","width":272,"height":320,"size":5493,"time":1727185002,"expiration":0,"image":{"filename":"user-6120842513-photo-2.jpg","name":"user-6120842513-photo-2","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/9rKDfdG\/user-6120842513-photo-2.jpg"},"thumb":{"filename":"user-6120842513-photo-2.jpg","name":"user-6120842513-photo-2","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/rw8jLXv\/user-6120842513-photo-2.jpg"},"delete_url":"https:\/\/ibb.co\/rw8jLXv\/97d5c770ff76a96d233f708c004de470"},"success":true,"status":200}
+2024-09-24 16:36:41,973 - handlers.photo_handler - INFO - Фотография 2 успешно загружена на imgbb: https://i.ibb.co/9rKDfdG/user-6120842513-photo-2.jpg
+2024-09-24 16:36:41,974 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo_2.jpg
+2024-09-24 16:36:41,975 - handlers.photo_handler - INFO - Обработка фотографии 3 из 3
+2024-09-24 16:36:42,525 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:36:42,527 - handlers.photo_handler - INFO - Фотография 3, размер: 16286 байт
+2024-09-24 16:36:43,067 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_2.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:36:43,069 - handlers.photo_handler - INFO - Фотография 3 от пользователя 6120842513 сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo_3.jpg
+2024-09-24 16:36:45,420 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"B3kBX2b","title":"user-6120842513-photo-3","url_viewer":"https:\/\/ibb.co\/B3kBX2b","url":"https:\/\/i.ibb.co\/wgt49hV\/user-6120842513-photo-3.jpg","display_url":"https:\/\/i.ibb.co\/wgt49hV\/user-6120842513-photo-3.jpg","width":600,"height":706,"size":16286,"time":1727185005,"expiration":0,"image":{"filename":"user-6120842513-photo-3.jpg","name":"user-6120842513-photo-3","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/wgt49hV\/user-6120842513-photo-3.jpg"},"thumb":{"filename":"user-6120842513-photo-3.jpg","name":"user-6120842513-photo-3","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/B3kBX2b\/user-6120842513-photo-3.jpg"},"delete_url":"https:\/\/ibb.co\/B3kBX2b\/218294527b56e6109bbf9f3ee49fef77"},"success":true,"status":200}
+2024-09-24 16:36:45,423 - handlers.photo_handler - INFO - Фотография 3 успешно загружена на imgbb: https://i.ibb.co/wgt49hV/user-6120842513-photo-3.jpg
+2024-09-24 16:36:45,424 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo_3.jpg
+2024-09-24 16:36:45,826 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:36:45,867 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:36:45,868 - handlers.photo_handler - INFO - Отправлены ссылки пользователю 6120842513
+2024-09-24 16:36:56,257 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:37:06,586 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:37:16,946 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:37:27,886 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:37:38,582 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:37:48,983 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:37:59,578 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:38:10,236 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:38:12,165 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:38:12,166 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:38:13,374 - __main__ - INFO - Запуск бота...
+2024-09-24 16:38:17,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getMe "HTTP/1.1 200 OK"
+2024-09-24 16:38:17,929 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/deleteWebhook "HTTP/1.1 200 OK"
+2024-09-24 16:38:17,931 - telegram.ext.Application - INFO - Application started
+2024-09-24 16:38:20,214 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:38:20,848 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:38:24,552 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:38:24,554 - handlers.photo_handler - INFO - Получено 3 PhotoSize объектов от пользователя 6120842513
+2024-09-24 16:38:24,555 - handlers.photo_handler - INFO - Обработка фотографии с размером: 600x706
+2024-09-24 16:38:25,215 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getFile "HTTP/1.1 200 OK"
+2024-09-24 16:38:25,216 - handlers.photo_handler - INFO - Размер файла: 16286 байт
+2024-09-24 16:38:26,089 - httpx - INFO - HTTP Request: GET https://api.telegram.org/file/bot7602774898%3AAAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/photos/file_2.jpg "HTTP/1.1 200 OK"
+2024-09-24 16:38:26,091 - handlers.photo_handler - INFO - Фотография сохранена по пути: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo.jpg
+2024-09-24 16:38:29,423 - utils.imgbb - INFO - Ответ от imgbb: {"data":{"id":"1QP6zkd","title":"user-6120842513-photo","url_viewer":"https:\/\/ibb.co\/1QP6zkd","url":"https:\/\/i.ibb.co\/kBw1mt9\/user-6120842513-photo.jpg","display_url":"https:\/\/i.ibb.co\/kBw1mt9\/user-6120842513-photo.jpg","width":600,"height":706,"size":16286,"time":1727185109,"expiration":0,"image":{"filename":"user-6120842513-photo.jpg","name":"user-6120842513-photo","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/kBw1mt9\/user-6120842513-photo.jpg"},"thumb":{"filename":"user-6120842513-photo.jpg","name":"user-6120842513-photo","mime":"image\/jpeg","extension":"jpg","url":"https:\/\/i.ibb.co\/1QP6zkd\/user-6120842513-photo.jpg"},"delete_url":"https:\/\/ibb.co\/1QP6zkd\/cdd182ef5fe41057efca4a29b0746346"},"success":true,"status":200}
+2024-09-24 16:38:29,426 - handlers.photo_handler - INFO - Фотография успешно загружена на imgbb: https://i.ibb.co/kBw1mt9/user-6120842513-photo.jpg
+2024-09-24 16:38:29,427 - handlers.photo_handler - INFO - Удаление локального файла: C:\Users\Asus\Desktop\Telegraphhc-main\telegram_imgbb_bot\downloads\user_6120842513_photo.jpg
+2024-09-24 16:38:30,795 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/sendMessage "HTTP/1.1 200 OK"
+2024-09-24 16:38:30,797 - handlers.photo_handler - INFO - Отправлена ссылка пользователю 6120842513
+2024-09-24 16:38:34,918 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:38:46,195 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:38:56,607 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:39:07,378 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:39:18,032 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:39:28,448 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:39:38,751 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:39:49,105 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:39:59,522 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:40:09,928 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:40:20,314 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:40:31,747 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:40:42,228 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:40:52,746 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7602774898:AAH-zWl4W3EhXvGRltJA0xOEqX02Hdfwr8Y/getUpdates "HTTP/1.1 200 OK"
+2024-09-24 16:41:00,633 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2024-09-24 16:41:00,634 - telegram.ext.Application - INFO - Application.stop() complete
+2024-09-24 16:41:01,908 - __main__ - INFO - Запуск бота...
